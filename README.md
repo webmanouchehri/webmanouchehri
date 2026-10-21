@@ -23,9 +23,16 @@
   <img src="https://img.shields.io/badge/JetEngine-6C4AB6?style=for-the-badge&logo=wordpress&logoColor=white" alt="JetEngine">
   <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
 </p>
+### 👩‍💻 About Me
 
+* 🎓 **Web Development Instructor** at Tehran Technical Complex & TVTO  
+  <sub>*(مدرس برنامه‌نویسی وب در مجتمع فنی تهران و سازمان فنی و حرفه‌ای)*</sub>
 
----
+* 💻 **Web Developer & WordPress Specialist**  
+  <sub>*(توسعه‌دهنده وب و متخصص وردپرس)*</sub>
+
+* 🚀 **Passionate about teaching and mentoring**  
+  <sub>*(علاقه‌مند به آموزش و انتقال دانش)*</sub>
 
 ### 📊 GitHub Stats:
 <p align="center">
