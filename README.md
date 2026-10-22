@@ -31,7 +31,7 @@
 * 💻 **Web Developer & WordPress Specialist**  
   <sub>*(توسعه‌دهنده وب و متخصص وردپرس)*</sub>
 
-* 🔍 **SEO Specialist **  
+* 🔍 **SEO Specialist**  
   <sub>*(متخصص سئو )*</sub>
 
 ### 📊 GitHub Stats:
