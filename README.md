@@ -25,13 +25,13 @@
 👩‍💻 About Me
 
 * 🎓 **Web Development Instructor** at Tehran Technical Complex & TVTO  
-  <sub>*(مدرس برنامه‌نویسی وب در مجتمع فنی تهران و سازمان فنی و حرفه‌ای)*</sub>
+  <sub>**(مدرس برنامه‌نویسی وب در مجتمع فنی تهران و سازمان فنی و حرفه‌ای)**</sub>
 
 * 💻 **Web Developer & WordPress Specialist**  
-  <sub>*(توسعه‌دهنده وب و متخصص وردپرس)*</sub>
+  <sub>**(توسعه‌دهنده وب و متخصص وردپرس)**</sub>
 
 * 🔍 **SEO Specialist**  
-  <sub>*(متخصص سئو )*</sub>
+  <sub>**(متخصص سئو )**</sub>
 
 ### 📊 GitHub Stats:
 <p align="center">
