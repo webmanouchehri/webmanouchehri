@@ -31,8 +31,8 @@
 * 💻 **Web Developer & WordPress Specialist**  
   <sub>*(توسعه‌دهنده وب و متخصص وردپرس)*</sub>
 
-* 🚀 **Passionate about teaching and mentoring**  
-  <sub>*(علاقه‌مند به آموزش و انتقال دانش)*</sub>
+* 🔍 **SEO Specialist **  
+  <sub>*(متخصص سئو )*</sub>
 
 ### 📊 GitHub Stats:
 <p align="center">
