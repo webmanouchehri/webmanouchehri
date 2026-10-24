@@ -1,6 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3AB43A,FD861D,FCB045&height=280&section=header&text=I'm%20Mansoureh%20Manouchehri%20Farzam&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=🚀%20Front-End%20%26%20Back-End%20Developer%20|%20WordPress%20Designer%20|%20Instructor&descSize=18&descAlignY=58&descAlign=50)
-
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3AB43A,FD861D,FCB045&height=280&section=header&text=I'm%20Mansoureh%20Manouchehri%20Farzam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=web%20developer&descAlignY=55&descAlign=50)
 <div align="center">
 
   <h3>🚀Front-End & Back-End Developer | WordPress Designer | Instructor</h3>
