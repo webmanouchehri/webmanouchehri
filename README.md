@@ -3,7 +3,7 @@
 
 <div align="center">
 
-  <h3>🚀 WordPress Designer | Front-End & Back-End Developer | Instructor</h3>
+  <h3>🚀Front-End & Back-End Developer | WordPress Designer | Instructor</h3>
 </div>
 
 <br>
