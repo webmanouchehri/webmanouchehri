@@ -3,7 +3,6 @@
 
   <h3>🚀Front-End & Back-End Developer | WordPress Designer | Instructor</h3>
 </div>
-
 <br>
 
 ### 🛠️ Tech Stack & Skills:
