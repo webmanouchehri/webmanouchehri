@@ -1,5 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3AB43A,FD861D,FCB045&height=280&section=header&text=I'm%20Mansoureh%20Manouchehri%20Farzam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=web%20developer&descAlignY=55&descAlign=50)
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3AB43A,FD861D,FCB045&height=280&section=header&text=I'm%20Mansoureh%20Manouchehri%20Farzam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=web%20developer&descSize=26&descAlignY=55&descAlign=50)
 
 <div align="center">
 
